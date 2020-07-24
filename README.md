@@ -2,6 +2,7 @@
 ruby exercise 
 
 ### Instructions
+- youtube video that goes along with this tutorial https://www.youtube.com/watch?v=7LIo9bioW5k
 - This is a ruby exercise tutorial that I am making, solving, and posting on youtube so that you can attempt and have a guided solution if needed. 
 - This exercise will be broken out in to 4 parts called iterations, to avoid working on too much at once. 
 - I will create an iteration pattern that is meant to guide your development of the software. 
